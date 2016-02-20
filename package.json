@@ -1,0 +1,19 @@
+{
+  "name": "secret-clubhouse-app",
+  "version": "1.0.0",
+  "description": "An express / handlebars / node.js / sequelize app With user validation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmensah/secret-clubhouse-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmensah/secret-clubhouse-app/issues"
+  },
+  "homepage": "https://github.com/rmensah/secret-clubhouse-app#readme"
+}
