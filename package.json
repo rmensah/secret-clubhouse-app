@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/rmensah/secret-clubhouse-app/issues"
   },
-  "homepage": "https://github.com/rmensah/secret-clubhouse-app#readme"
+  "homepage": "https://github.com/rmensah/secret-clubhouse-app#readme",
+  "dependencies": {
+    "bcryptjs": "^2.3.0",
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "express-handlebars": "^3.0.0",
+    "express-sessions": "^1.0.5",
+    "passport": "^0.3.2",
+    "sequelize": "^3.19.3"
+  }
 }
